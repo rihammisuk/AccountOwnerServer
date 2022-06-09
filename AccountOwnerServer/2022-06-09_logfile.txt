@@ -1,0 +1,12 @@
+2022-06-09 15:20:31.9949 ERROR Something went wrong inside GetAllOwners action: Unable to cast object of type 'System.String' to type 'System.Guid'.
+2022-06-09 15:21:05.9854 ERROR Something went wrong inside GetAllOwners action: Unable to cast object of type 'System.String' to type 'System.Guid'.
+2022-06-09 15:24:26.8949 INFO Returned all owners from database.
+2022-06-09 16:33:49.9069 ERROR Something went wrong inside GetAllOwners action: Unable to cast object of type 'System.String' to type 'System.Guid'.
+2022-06-09 16:37:35.1230 ERROR Something went wrong inside GetOwnerById action: Unable to cast object of type 'System.String' to type 'System.Guid'.
+2022-06-09 16:43:02.7617 ERROR Something went wrong inside GetAllOwners action: Unable to cast object of type 'System.Byte[]' to type 'System.Guid'.
+2022-06-09 16:44:24.5334 ERROR Something went wrong inside GetAllOwners action: Unable to cast object of type 'System.String' to type 'System.Guid'.
+2022-06-09 17:07:34.3662 ERROR Something went wrong inside GetAllOwners action: Unable to cast object of type 'System.String' to type 'System.Guid'.
+2022-06-09 17:10:06.8706 INFO Returned all owners from database.
+2022-06-09 17:11:00.4284 INFO Returned all owners from database.
+2022-06-09 17:11:19.1061 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2022-06-09 17:11:56.1068 ERROR Owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641905, hasn't been found in db.
